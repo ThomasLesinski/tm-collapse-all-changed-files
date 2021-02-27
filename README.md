@@ -1,0 +1,1 @@
+# tm-collapse-all-changed-files
