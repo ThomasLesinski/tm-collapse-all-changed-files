@@ -1,1 +1,1 @@
-# tm-collapse-all-changed-files
+# Tampermonkey 'Collapse all changed files' Script
