@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         GH Shopware - Collapse all changed files
+// @name         GitHub Shopware - Collapse all changed files
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to collapse all changed files in pullrequest "changed files" tab
-// @author       ThomasLesinski
+// @author       Thomas Lesinski
 // @include      https://github.com/*/pull/*
 // @grant        none
 // ==/UserScript==
