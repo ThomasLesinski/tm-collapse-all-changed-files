@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GitHub Shopware - Collapse all changed files
+// @name         GitHub - Collapse all changed files
 // @namespace    https://www.ottscho-it-service.de/
 // @version      1
 // @description  Add btn to collapse all changed files in pullrequest "changed files" tab
